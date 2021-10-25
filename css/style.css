@@ -1,0 +1,23 @@
+
+header {
+    background: #6495ed url(../img/pattern.png) 
+}
+
+.text-yellow{
+    background-color: yellow;
+}
+
+.white-text{
+    background-color: #1e90ff;
+    color: white;
+}
+
+.riga-colored{
+    background-color: #00bfff;
+    color: black;
+}
+
+h5{
+    color: gray;
+    font: lighter;
+}
