@@ -3,6 +3,15 @@ header {
     background: #6495ed url(../img/pattern.png) 
 }
 
+.logo{
+    width: 300px;
+}
+
+.link{
+    color: #6495ed; 
+}
+
+}
 .text-yellow{
     background-color: yellow;
 }
@@ -21,3 +30,4 @@ h5{
     color: gray;
     font: lighter;
 }
+
