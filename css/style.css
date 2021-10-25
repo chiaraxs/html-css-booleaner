@@ -1,17 +1,19 @@
 
 header {
-    background: #6495ed url(../img/pattern.png) 
+    background: #6495ed url(../img/pattern.png);
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .logo{
-    width: 300px;
+    width: 200px;
 }
 
 .link{
     color: #6495ed; 
 }
 
-}
+
 .text-yellow{
     background-color: yellow;
 }
@@ -26,8 +28,18 @@ header {
     color: black;
 }
 
+.large{
+    width: 50%;
+}
+
 h5{
     color: gray;
     font: lighter;
 }
 
+h3{
+  margin: 0px;
+  background-image: url(');
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+}
